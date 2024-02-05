@@ -1,0 +1,5 @@
+requests
+json
+fake_useragent
+colorama
+fade
