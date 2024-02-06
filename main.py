@@ -8,7 +8,7 @@ import uuid
 from colorama import init, Fore, Style
 import fade
 from keep_alive import keep_alive
-keep_alice()
+keep_alive()
 
 def clean_filename(hostname):
     return re.sub(r'^([0-9])', '', re.sub(r'[/:"*?<>|]', '', hostname)).replace('^0','').replace('^1','').replace('^2','').replace('^3','').replace('^4','').replace('^5','').replace('^6','').replace('^7','').replace('^8','').replace('^9','')
