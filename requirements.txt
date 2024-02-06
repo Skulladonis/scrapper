@@ -4,4 +4,3 @@ fake_useragent
 colorama
 fade
 flask
-aiogram=2.23.1
